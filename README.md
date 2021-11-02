@@ -10,7 +10,7 @@ In addition, I used an open-sourced geojson file for my spatial analysis ([sourc
 
 ### Key Questions
 1. How many lisitngs are there in each borough and where are they?
-2. What is the most popular(least popular) borough? 
+2. What is the most popular (least popular) borough? 
 3. What is the price difference between neighbourhoods?
 5. What are the most popular/least popular neighbourhoods? 
 6. How do listing features inform the price of an Airbnb?
