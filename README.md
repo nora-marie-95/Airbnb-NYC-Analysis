@@ -18,7 +18,7 @@ In addition, I used an open-sourced geojson file for my spatial analysis ([sourc
 
 ### Folder Overview
 01 Project Management: Contains the project brief provided by CareerFoundry  
-02 Data: 02 Data/Original Data contains the geo json file. Due to size limitations the other data sets could not be uploaded. 02/Prepared Data contains the main data set. There is a cleaned version, a version for the cluster analysis and a merged version that combines the original cleaned data with the cluster column.   
+02 Data: 02 Data/Original Data contains the geo json file. Due to size limitations the other data sets could not be uploaded. 02/Prepared Data contains the main data set after cleaning, as well as a version for the cluster analysis and a merged version that combines the original cleaned data with the cluster column.   
 03 Scripts: Contains 6 scripts for different analytical steps   
 04 Analysis/Visualizations: Contains some of the visualizations that were produced during the analysis   
 
