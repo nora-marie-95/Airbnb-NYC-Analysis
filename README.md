@@ -22,6 +22,6 @@ In addition, I used an open-sourced geojson file for my spatial analysis ([sourc
 03 Analysis/Visualizations: Contains some of the visualizations that were produced during the analysis   
 
 ### Link to my Tableau story 
-The final results are summarized in a Tableau storyboard. Note, that the storyboard does not contain every step I took as part of the analysis. 
+The final results are summarized in a Tableau storyboard. Note that the storyboard does not contain every step I took as part of the analysis. 
 
 [Click to see Tableau story](https://public.tableau.com/app/profile/nora.lienenbecker/viz/AirbnbListingsAnalysis/Story1)
